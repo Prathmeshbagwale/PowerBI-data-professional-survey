@@ -48,7 +48,8 @@ A dynamic, interactive **Power BI business intelligence report** built on the Bi
 
 ## 📸 Report Preview
 
-![Power BI Report Preview](preview.png)
+<img width="1167" height="657" alt="Dynamic PowerBI Dashboard" src="https://github.com/user-attachments/assets/a6bcde94-cb17-4098-af40-87f218a9436b" />
+
 
 ---
 
