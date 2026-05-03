@@ -94,8 +94,8 @@ Download at [libreoffice.org](https://www.libreoffice.org) → open the `.xlsx` 
 ```
 📦 excel-data-analysis/
 ├── 📄 README.md
-├── 📗 Excel_Project_Dataset_1.xlsx  ← Main analysis & dashboard file
-└── 🖼️ preview.png                   ← Dashboard screenshot
+├── 📗 Excel_Project_Dataset_1.xlsx  
+└── 🖼️ preview.png                   
 ```
 
 ---
