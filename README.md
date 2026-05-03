@@ -20,7 +20,6 @@ This project demonstrates my ability to take raw survey data, apply data modelli
 |--------|------|
 | **Dataset** | Data Professional Survey Breakdown |
 | **Created by** | Alex The Analyst |
-| **Source** | [Download from GitHub →](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) |
 | **Rows** | 630 survey respondents |
 | **Key Columns** | Job Title, Salary Range, Country, Favourite Programming Language, Career Switch, Satisfaction Scores (Salary, Work-Life Balance, Management, Upward Mobility) |
 
@@ -93,7 +92,7 @@ This project demonstrates my ability to take raw survey data, apply data modelli
 ├── 📄 README.md
 ├── 📊 Project_PowerBI.pbix    
 ├── 🖼️ preview.png
-└──  Dataset
+└── 📄 Dataset_used
            
 ```
 
