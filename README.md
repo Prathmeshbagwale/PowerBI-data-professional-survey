@@ -102,6 +102,6 @@ This project demonstrates my ability to take raw survey data, apply data modelli
 **Prathmesh Bagwale** — Data Analytics Analyst
 - 📧 [prathmeshbagwale@gmail.com](mailto:prathmeshbagwale@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/prathmesh-bagwale)
-- 🐙 [GitHub Portfolio](https://github.com/prathmesh)
+- 🐙 [GitHub Portfolio](https://github.com/Prathmeshbagwale)
 
 > 🔎 *Open to Data Analyst, Business Analyst, and BI Developer roles.*
